@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lazy Student</string>
+    <string name="ergwave_pref">0</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dept">Department</string>
+    <string name="fqdn">fqdn</string>
+    <string name="save">Save</string>
+    <string name="connecting">connecting</string>
+    <string name="ssid_ergwave">ERGWAVE</string>
+    <string name="ssid_cuhk">CUHK</string>
+    <string name="ssid_wifihk">Wi-Fi.HK</string>
+    <string name="sid">Student ID</string>
+    <string name="cwem">CWEM Password</string>
+    <string name="saved_setting">Saved Settings</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="dept_array">
+        <item>CSE</item>
+        <item>EE</item>
+        <item>IE</item>
+        <item>MAE</item>
+        <item>SE</item>
+        <item>Log</item>
+        <item>ENO</item>
+        <item>ERG</item>
+    </string-array>
+
+</resources>
